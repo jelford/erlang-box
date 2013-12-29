@@ -1,6 +1,6 @@
 # Erlang Box
 
-Provision a fresh vagrant[1] box with a build of Erlang.
+Provision a fresh [vagrant](http://vagrantup.com) box with a build of Erlang.
 
     vagrant up
 
@@ -8,4 +8,3 @@ Provision a fresh vagrant[1] box with a build of Erlang.
 * Erlang is checked out fresh from git
 * Erlang is installed onto the path for the vagrant user
 
-    [1]: http://vagrantup.com
